@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+  "type": "Feature",
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [77.0, 28.5],
+  [77.01, 28.5],
+  [77.01, 28.51],
+  [77.0, 28.51],
+  [77.0, 28.5]
+  ]
+  ]
+  },
+  "properties": {
+  "parcel_id": "P001",
+  "crop_name": "Wheat",
+  "season": "Rabi",
+  "year": 2024
+  }
+  }
+  ]
+  }

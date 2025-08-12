@@ -1,0 +1,13 @@
+crop_id,crop_name_en,level1_group
+1,Paddy,Cereals
+2,Wheat,Cereals
+3,Maize,Cereals
+4,Barley,Cereals
+5,Gram,Pulses
+6,Lentil,Pulses
+7,Mustard,Oilseeds
+8,Soybean,Oilseeds
+9,Sugarcane,Sugar
+10,Cotton,Fiber
+11,Groundnut,Oilseeds
+12,Fallow,Non-Crop

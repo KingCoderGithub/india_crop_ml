@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+    ".geojson": "json"
+    },
+    "json.schemas": [
+    {
+    "fileMatch": [
+    ".geojson"
+    ],
+    "url": "http://json.schemastore.org/geojson"
+    }
+    ]
+    }
